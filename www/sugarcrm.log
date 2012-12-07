@@ -1,0 +1,10 @@
+Tue Dec  4 08:35:48 2012 [8605][-none-][FATAL] Could not connect to DB server 172.17.1.1 as root. port : Can't connect to MySQL server on '172.17.1.1' (111)
+Tue Dec  4 08:35:48 2012 [8605][-none-][FATAL] Could Not Connect: Database Is Not Connected
+Tue Dec  4 08:35:48 2012 [8605][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+Tue Dec  4 08:35:48 2012 [8605][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+Tue Dec  4 08:35:48 2012 [8605][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+Tue Dec  4 08:35:48 2012 [8605][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
+Tue Dec  4 08:39:34 2012 [8607][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Tue Dec  4 08:39:34 2012 [8607][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Tue Dec  4 08:39:47 2012 [8604][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Tue Dec  4 08:39:52 2012 [8604][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
