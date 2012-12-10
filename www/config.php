@@ -53,7 +53,7 @@ $sugar_config = array (
   array (
     'db_host_name' => getenv(STRATOS_DB_HOST),
     'db_host_instance' => 'SQLEXPRESS',
-    'db_user_name' => getenv(STRATOS_DB_USERNAME),
+    'db_user_name' => getenv(STRATOS_DB_USER),
     'db_password' => getenv(STRATOS_DB_PASSWORD),
     'db_name' => 'sugarcrm',
     'db_type' => 'mysql',
